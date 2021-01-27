@@ -1,6 +1,6 @@
-### echo server
+# echo server
 
-# create repository
+## create repository
 ```bash
 git init
 git add *
@@ -10,7 +10,7 @@ git remote add origin https://github.com/kindquokka/echoserver.git
 git push -u origin main
 ```
 
-# push repository
+### push repository
 ```bash
 git add *
 git commit -m "edit readme.md"
