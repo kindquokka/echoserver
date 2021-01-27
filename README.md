@@ -1,6 +1,6 @@
 # echo server
 
-## create repository
+### create repository
 ```bash
 git init
 git add *
